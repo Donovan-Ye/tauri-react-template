@@ -3,6 +3,7 @@
   "type": "module",
   "version": "0.0.0",
   "private": true,
+  "packageManager": "pnpm@8.10.0",
   "author": {
     "name": "Your Name Here",
     "email": "your-email-here@example.com"
